@@ -1,7 +1,7 @@
 ## Noty
 
 ### App Description
-`TODO://` Noty is a simple memo app, which allows users to write down quick notes. Inside the app, users can highlight notes color, shift the app to dark mode and remove past changes by tapping the background. 
+Noty is a simple memo app, which allows users to write down quick notes. Inside the app, users can highlight notes color, shift the app to dark mode and remove past changes by tapping the background. 
 
 <img src="http://g.recordit.co/OlowncwkNE.gif" width=200><br>
 
